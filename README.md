@@ -24,6 +24,9 @@ This project can be used by researchers, policymakers, and law enforcement agenc
 ## Dataset
 The crime data used in this project is sourced from [OpenCity](https://opencity.in/). The dataset includes information on crime types, frequency, and distribution across different districts of Tamil Nadu.
 
+## Map
+The tamil nadu geoJSON map was retrieved from https://github.com/tarunshah/India-D3/blob/master/TamilNadu.geojson 
+
 ## Future Work
 - Implement predictive analysis to forecast future crime trends.
 - Expand the dataset to include more states for comparative analysis.
